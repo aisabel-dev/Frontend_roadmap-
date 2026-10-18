@@ -10,5 +10,5 @@ Projetos e desafios desenvolvidos ao longo da minha jornada frontend.
 
 | Projeto | Tecnologias | Link do Código | Live Preview |
 | :--- | :--- | :--- | :--- |
-| **QR Code Component** | HTML5, CSS3 (Flexbox) | [Código](https://github.com/aisabel-dev/Frontend_roadmap-) | [Live Demo](https://aisabel-dev.github.io/Frontend_roadmap-/) |
+| **QR Code Component** | HTML5, CSS3 (Flexbox) | [Código](https://github.com/aisabel-dev/Frontend_roadmap-/qr_code) | [Live Demo](https://aisabel-dev.github.io/Frontend_roadmap-/qr_code/) |
 
